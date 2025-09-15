@@ -1,7 +1,8 @@
 #include "Baekjoon_Step_08.h"
 
+#include <algorithm>
 #include <iostream>
-#include <list>
+#include <limits>			// std::numeric_limits<int>::max();
 #include <vector>
 
 int Baekjoon_Step_08::Solution()
@@ -9,25 +10,18 @@ int Baekjoon_Step_08::Solution()
 	std::cin.tie(nullptr);
 	std::ios::sync_with_stdio(false);
 
-	int count = 0;
-	std::cin >> count;
+	int basket_count = 0;
+	int ball_count = 0;
 
-	std::vector<std::pair<int, int>> test_case;
-	test_case.reserve(count);
+	std::cin >> basket_count >> ball_count;
 
-	for (int i = 0; i < count; ++i)
+	for (int i = 0; i < ball_count; ++i)
 	{
-		std::pair<int, int> pair;
-		std::cin >> pair.first >> pair.second;
-		test_case.push_back(pair);
-	}
-
-	for (int i = 0; i < count; ++i)
-	{
-		std::cout << "Case #" << i + 1 << ": " << test_case[i].first << " + " << test_case[i].second << " = " << test_case[i].first + test_case[i].second << '\n';
+		for (int j = 0; j < )
 	}
 
 	return 0;
+
 
 	//int count = 0;
 	//std::cin >> count;

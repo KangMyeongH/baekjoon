@@ -7,18 +7,27 @@
 
 int Baekjoon_Step_08::Solution()
 {
+	// 이건 좀 고민된888
 	std::cin.tie(nullptr);
 	std::ios::sync_with_stdio(false);
 
-	int basket_count = 0;
-	int ball_count = 0;
+	std::vector<int> test_cast;
+	test_cast.resize(28);
 
-	std::cin >> basket_count >> ball_count;
-
-	for (int i = 0; i < ball_count; ++i)
+	for (int i = 0; i < 28; ++i)
 	{
-		for (int j = 0; j < )
+		std::cin >> test_cast[i];
 	}
+
+	std::vector<int> students;
+	students.reserve(30);
+
+	for (int i = 0; i < 30; ++i)
+	{
+		students.push_back(i + 1);
+	}
+
+	
 
 	return 0;
 

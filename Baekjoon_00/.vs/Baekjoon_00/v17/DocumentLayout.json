@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 503,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,10 +97,6 @@
               "Name": "ST:7:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Baekjoon_Step_08.cpp",
@@ -108,10 +104,14 @@
               "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_08.cpp",
               "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp",
               "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_08.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-15T14:17:10.72Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -123,8 +123,7 @@
               "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_07.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T09:13:41.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T09:13:41.235Z"
             },
             {
               "$type": "Document",
@@ -184,8 +183,7 @@
               "RelativeToolTip": "Baekjoon_00\\BaekjoonTest.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:17:05.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:17:05.689Z"
             },
             {
               "$type": "Document",
@@ -197,8 +195,7 @@
               "RelativeToolTip": "Baekjoon_00\\Baekjoon_00.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwBsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:17:09.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T08:17:09.292Z"
             },
             {
               "$type": "Document",

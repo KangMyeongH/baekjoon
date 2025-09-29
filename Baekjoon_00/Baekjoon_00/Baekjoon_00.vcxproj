@@ -139,6 +139,7 @@
     <ClCompile Include="Baekjoon_Step_06.cpp" />
     <ClCompile Include="Baekjoon_Step_07.cpp" />
     <ClCompile Include="Baekjoon_Step_08.cpp" />
+    <ClCompile Include="Baekjoon_Step_String.cpp" />
     <ClCompile Include="BarkingDog_0x02_00.cpp" />
     <ClCompile Include="BarkingDog_0x02_01.cpp" />
     <ClCompile Include="BarkingDog_0x02_02.cpp" />
@@ -157,6 +158,7 @@
     <ClInclude Include="Baekjoon_Step_06.h" />
     <ClInclude Include="Baekjoon_Step_07.h" />
     <ClInclude Include="Baekjoon_Step_08.h" />
+    <ClInclude Include="Baekjoon_Step_String.h" />
     <ClInclude Include="BarkingDog_0x02_00.h" />
     <ClInclude Include="BarkingDog_0x02_01.h" />
     <ClInclude Include="BarkingDog_0x02_02.h" />

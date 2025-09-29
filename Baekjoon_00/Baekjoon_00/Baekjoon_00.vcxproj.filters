@@ -63,6 +63,9 @@
     <ClCompile Include="Baekjoon_Step_08.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon_Step_String.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BarkingDog_0x02_00.h">
@@ -111,6 +114,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Baekjoon_Step_08.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Baekjoon_Step_String.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

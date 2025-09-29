@@ -7,6 +7,7 @@
 #include "Baekjoon_Step_04.h"
 #include "Baekjoon_Step_07.h"
 #include "Baekjoon_Step_08.h"
+#include "Baekjoon_Step_String.h"
 #include "BarkingDog_0x02_00.h"
 #include "BarkingDog_0x02_01.h"
 #include "BarkingDog_0x02_02.h"
@@ -25,7 +26,8 @@ int main()
 	//BarkingDog_0x02_04 temp;
 	//Baekjoon_Step_00 temp;
 	//Baekjoon_Step_01 temp;
-	Baekjoon_Step_08 temp;
+	//Baekjoon_Step_08 temp;
+	Baekjoon_Step_String temp;
 
 	return temp.Solution();
 }

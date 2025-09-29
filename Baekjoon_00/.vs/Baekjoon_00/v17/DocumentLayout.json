@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\list||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,16 +18,40 @@
       "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\BaekjoonTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\BaekjoonBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_08.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,24 +70,12 @@
       "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_04.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|solutionrelative:Baekjoon_00\\Baekjoon_Step_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD18F21D-F1DC-446C-A322-227F63EA245D}|Baekjoon_00\\Baekjoon_00.vcxproj|D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,7 +93,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 503,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,133 +112,35 @@
               "Name": "ST:7:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Baekjoon_Step_08.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_08.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_08.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T14:17:10.72Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Baekjoon_Step_07.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_07.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_07.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\list",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAtwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-27T08:03:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baekjoon_Step_String.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_String.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_String.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T09:13:41.235Z"
+              "WhenOpened": "2025-09-17T05:35:03.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Baekjoon_Step_07.h",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.h",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_07.h",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.h",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_07.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T09:13:10.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Baekjoon_Step_06.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_06.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_06.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T09:05:53.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Baekjoon_Step_06.h",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.h",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_06.h",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.h",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_06.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T09:05:50.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Baekjoon_Step_05.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_05.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_05.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T09:01:23.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaekjoonTest.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonTest.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\BaekjoonTest.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonTest.cpp",
-              "RelativeToolTip": "Baekjoon_00\\BaekjoonTest.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:17:05.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Baekjoon_00.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_00.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_00.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_00.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_00.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:17:09.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Baekjoon_Step_08.h",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_08.h",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_08.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T14:16:50.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Baekjoon_Step_05.h",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.h",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_05.h",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.h",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_05.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T09:00:54.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Baekjoon_Step_04.cpp",
               "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.cpp",
               "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_04.cpp",
@@ -235,31 +152,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Baekjoon_Step_04.h",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.h",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_04.h",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.h",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_04.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T08:25:23.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Baekjoon_Step_00.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_00.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_00.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_00.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_00.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Baekjoon_Step_03.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_03.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_03.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:24:25.377Z"
+              "WhenOpened": "2025-09-15T08:06:29.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Baekjoon_Step_01.cpp",
               "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_01.cpp",
               "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_01.cpp",
@@ -271,7 +176,175 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baekjoon_00.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_00.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_00.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_00.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_00.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T08:17:09.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaekjoonTest.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonTest.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\BaekjoonTest.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonTest.cpp",
+              "RelativeToolTip": "Baekjoon_00\\BaekjoonTest.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T08:17:05.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Baekjoon_Step_06.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_06.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T09:05:53.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baekjoon_Step_07.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_07.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T09:13:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Baekjoon_Step_08.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_08.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T14:17:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Baekjoon_Step_String.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_String.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_String.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_String.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T05:34:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaekjoonBase.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonBase.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\BaekjoonBase.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BaekjoonBase.h",
+              "RelativeToolTip": "Baekjoon_00\\BaekjoonBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T05:34:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Baekjoon_Step_07.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_07.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_07.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_07.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T09:13:10.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Baekjoon_Step_06.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_06.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_06.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_06.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T09:05:50.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Baekjoon_Step_05.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_05.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T09:01:23.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Baekjoon_Step_08.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_08.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_08.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_08.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T14:16:50.832Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Baekjoon_Step_05.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_05.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_05.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_05.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T09:00:54.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Baekjoon_Step_04.h",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.h",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_04.h",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_04.h",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_04.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T08:25:23.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Baekjoon_Step_00.cpp",
+              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_00.cpp",
+              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_00.cpp",
+              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_00.cpp",
+              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_00.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T08:24:25.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "BarkingDog_0x02_04.cpp",
               "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\BarkingDog_0x02_04.cpp",
               "RelativeDocumentMoniker": "Baekjoon_00\\BarkingDog_0x02_04.cpp",
@@ -283,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Baekjoon_Step_02.cpp",
               "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_02.cpp",
               "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_02.cpp",
@@ -292,18 +365,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-15T08:17:26.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Baekjoon_Step_03.cpp",
-              "DocumentMoniker": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp",
-              "RelativeDocumentMoniker": "Baekjoon_00\\Baekjoon_Step_03.cpp",
-              "ToolTip": "D:\\DDingHo\\baekjoon\\Baekjoon_00\\Baekjoon_00\\Baekjoon_Step_03.cpp",
-              "RelativeToolTip": "Baekjoon_00\\Baekjoon_Step_03.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T08:06:29.299Z"
             }
           ]
         },

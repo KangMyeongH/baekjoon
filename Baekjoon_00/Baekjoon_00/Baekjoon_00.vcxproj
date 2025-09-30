@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="BaekjoonTest.cpp" />
     <ClCompile Include="Baekjoon_00.cpp" />
+    <ClCompile Include="Baekjoon_Queue.cpp" />
     <ClCompile Include="Baekjoon_Step_00.cpp" />
     <ClCompile Include="Baekjoon_Step_01.cpp" />
     <ClCompile Include="Baekjoon_Step_02.cpp" />
@@ -149,6 +150,7 @@
   <ItemGroup>
     <ClInclude Include="BaekjoonBase.h" />
     <ClInclude Include="BaekjoonTest.h" />
+    <ClInclude Include="Baekjoon_Queue.h" />
     <ClInclude Include="Baekjoon_Step_00.h" />
     <ClInclude Include="Baekjoon_Step_01.h" />
     <ClInclude Include="Baekjoon_Step_02.h" />

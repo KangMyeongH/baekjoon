@@ -11,72 +11,75 @@
 
 int Baekjoon_Step_String::Solution()
 {
+	// 스택의 오아시스 문제 풀다가 말았음.
 	std::cin.tie(nullptr);
 	std::ios::sync_with_stdio(false);
 
-	int tower_count = 0;
+	int count = 0;
 
-	std::cin >> tower_count;
+	std::cin >> count;
 
-	std::vector<int> tower_height(tower_count);
+	std::vector<int> height(count);
 
-	for (auto& height : tower_height)
+	for (auto& h : height)
 	{
-		std::cin >> height;
+		std::cin >> h;
 	}
 
-	std::stack<std::pair<int, int>> stack;
+	std::vector<int> NGE(count);
+	std::stack<int> NGE_stack;
 
-	int result = 0;
+	NGE_stack.push(height[count - 1]);
+	NGE[count - 1] = -1;
 
-	stack.emplace(tower_height[tower_count - 1], tower_count - 1);
-	// 단조 스택
-	for (int i = tower_count - 2; i >= 0; --i)
+	for (int i = count - 2; i >= 0; --i)
 	{
-		int cur = tower_height[i];
+		int cur = height[i];
 
-		while (!stack.empty() && stack.top().first <= cur)
+		while (!NGE_stack.empty() && NGE_stack.top() <= cur)
 		{
-			stack.pop();
+			NGE_stack.pop();
 		}
-		// 잠깐 외출
-		result += stack.top().second - i;
 
-		stack.emplace(cur, i);
+		if (NGE_stack.empty())
+		{
+			NGE[i] = -1;
+		}
+
+		else
+		{
+			NGE[i] = NGE_stack.top();
+		}
+
+		NGE_stack.push(cur);
 	}
 
-	std::cout << result;
+	std::vector<int> PGE(count);
+	std::stack<int> PGE_stack;
+
+	for (int i = 0; i < count; ++i)
+	{
+		int cur = height[i];
+
+		while (!PGE_stack.empty() && PGE_stack.top() <= cur)
+		{
+			PGE_stack.pop();
+		}
+
+		if (PGE_stack.empty())
+		{
+			PGE[i] = -1;
+		}
+
+		else
+		{
+			PGE[i] = PGE_stack.top();
+		}
+
+		PGE_stack.push(cur);
+	}
+
+
 
 	return 0;
 }
-
-//int tower_count = 0;
-//std::cin >> tower_count;
-
-//std::vector<int> tower(tower_count);
-
-//for (int i = 0; i < tower_count; ++i)
-//{
-//	std::cin >> tower[i];
-//}
-
-//std::vector<int> answer(tower_count);
-//std::stack<std::pair<int, int>> stack;
-
-//for (int i = 0; i < tower_count; ++i)
-//{
-//	int cur = tower[i];
-
-//	while (!stack.empty() && stack.top().first < cur)
-//	{
-//		stack.pop();
-//	}
-
-//	answer[i] = stack.empty() ? 0 : stack.top().second;
-//	stack.emplace(cur, i + 1);
-//}
-
-//for (const auto num : answer)
-//{
-//	std::cout << num << ' ';
-//}

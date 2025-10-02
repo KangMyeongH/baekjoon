@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 
 #include "Baekjoon_Queue.h"
+#include "Baekjoon_Stack.h"
 
 using namespace std;
 
@@ -16,7 +17,7 @@ int main()
 	//Baekjoon_Step_01 temp;
 	//Baekjoon_Step_08 temp;
 	//Baekjoon_Step_String temp;
-	Baekjoon_Queue temp;
+	Baekjoon_Stack temp;
 
 	return temp.Solution();
 }

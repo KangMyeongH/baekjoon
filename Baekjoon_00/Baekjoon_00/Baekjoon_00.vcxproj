@@ -128,44 +128,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BaekjoonTest.cpp" />
     <ClCompile Include="Baekjoon_00.cpp" />
+    <ClCompile Include="Baekjoon_BFS.cpp" />
     <ClCompile Include="Baekjoon_Queue.cpp" />
-    <ClCompile Include="Baekjoon_Step_00.cpp" />
-    <ClCompile Include="Baekjoon_Step_01.cpp" />
-    <ClCompile Include="Baekjoon_Step_02.cpp" />
-    <ClCompile Include="Baekjoon_Step_03.cpp" />
-    <ClCompile Include="Baekjoon_Step_04.cpp" />
-    <ClCompile Include="Baekjoon_Step_05.cpp" />
-    <ClCompile Include="Baekjoon_Step_06.cpp" />
-    <ClCompile Include="Baekjoon_Step_07.cpp" />
-    <ClCompile Include="Baekjoon_Step_08.cpp" />
-    <ClCompile Include="Baekjoon_Step_String.cpp" />
-    <ClCompile Include="BarkingDog_0x02_00.cpp" />
-    <ClCompile Include="BarkingDog_0x02_01.cpp" />
-    <ClCompile Include="BarkingDog_0x02_02.cpp" />
-    <ClCompile Include="BarkingDog_0x02_03.cpp" />
-    <ClCompile Include="BarkingDog_0x02_04.cpp" />
+    <ClCompile Include="Baekjoon_Stack.cpp" />
+    <ClCompile Include="Baekjoon_Test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaekjoonBase.h" />
-    <ClInclude Include="BaekjoonTest.h" />
+    <ClInclude Include="Baekjoon_BFS.h" />
     <ClInclude Include="Baekjoon_Queue.h" />
-    <ClInclude Include="Baekjoon_Step_00.h" />
-    <ClInclude Include="Baekjoon_Step_01.h" />
-    <ClInclude Include="Baekjoon_Step_02.h" />
-    <ClInclude Include="Baekjoon_Step_03.h" />
-    <ClInclude Include="Baekjoon_Step_04.h" />
-    <ClInclude Include="Baekjoon_Step_05.h" />
-    <ClInclude Include="Baekjoon_Step_06.h" />
-    <ClInclude Include="Baekjoon_Step_07.h" />
-    <ClInclude Include="Baekjoon_Step_08.h" />
-    <ClInclude Include="Baekjoon_Step_String.h" />
-    <ClInclude Include="BarkingDog_0x02_00.h" />
-    <ClInclude Include="BarkingDog_0x02_01.h" />
-    <ClInclude Include="BarkingDog_0x02_02.h" />
-    <ClInclude Include="BarkingDog_0x02_03.h" />
-    <ClInclude Include="BarkingDog_0x02_04.h" />
+    <ClInclude Include="Baekjoon_Stack.h" />
+    <ClInclude Include="Baekjoon_Test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
